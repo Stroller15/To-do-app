@@ -3,23 +3,11 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-## Install
+## App link : https://todo-4.netlify.app/
 
-```sh
-npm install
-```
+## Description 
 
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
+*Created To-do app using react we can add our daily task and delete after completed out task.*
 
 ## Author
 
