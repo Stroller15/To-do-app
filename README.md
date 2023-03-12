@@ -1,23 +1,24 @@
-<h1 align="center">Welcome to dailygoalapp 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+# To-do-app
+ 
+![image](https://user-images.githubusercontent.com/84174011/224536270-57a99616-43ea-4fb5-8587-37b932558c92.png)
 
-## App link : https://todo-4.netlify.app/
+![image](https://user-images.githubusercontent.com/84174011/224536316-1bfe1a22-5b11-46bb-9549-de6ce8d7dbfc.png)
 
-## Description 
 
-*Created To-do app using react we can add our daily task and delete after completed out task.*
+A "To-Do" app is a productivity tool that allows users to create, manage and organize a list of tasks.
 
-## Author
+## 🧑‍💻 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>  &nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40"/> 
+           
+          
+      
+## 🛠️ Installation Steps
 
-👤 **Shubham Verma**
+1. Fork the project
+2. Clone the project
+3. Navigate to the project directory `cd To-do-app`
+4. Install dependencies with `npm install`
+5. Run `npm start`
 
-* LinkedIn: [@shubham-verma-314285184](https://linkedin.com/in/shubham-verma-314285184)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+## 🌐 Web App
+https://todo-4.netlify.app/
