@@ -35,9 +35,9 @@ const Home = () => {
       <h1>DAILY GOAL</h1>
       <form onSubmit={submitHandler}>
 
-        <input type="text" placeholder='Title' value={title} onChange={(e) => setTitle(e.target.value)} />
+        <input type="text" placeholder='Title' value={title} onChange={(e) => setTitle(e.target.value)} required />
         <textarea placeholder='Description'
-          value={description} onChange={(e) => setDescription(e.target.value)}></textarea>
+          value={description} onChange={(e) => setDescription(e.target.value)} required></textarea>
         <button type='submit'  >ADD</button>
 
       </form>
